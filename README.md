@@ -18,8 +18,9 @@ This project is a modification of the [Simple Keyboard](https://github.com/rkkr/
 2) Set up the keyboard as your default keyboard.
 
 3) Use the next command to visualize the different keys pressed:
-
+```
 adb logcat | grep -i KeyEvent1
+```
 
 ## Example
 
