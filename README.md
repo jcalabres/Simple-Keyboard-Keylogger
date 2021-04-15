@@ -9,7 +9,7 @@
       
 ## About
 
-This project is a modification of the https://github.com/rkkr/simple-keyboard intended to be used as a keylogger.
+This project is a modification of the [Simple Keyboard](https://github.com/rkkr/simple-keyboard) intended to be used as a keylogger.
 
 ## Usage
 
